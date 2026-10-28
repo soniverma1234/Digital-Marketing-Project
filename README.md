@@ -38,3 +38,4 @@ npm run lint
 npm run build
 ```
 "# Digital-Marketing-Project" 
+"# DigitalMarketing-Project" 
